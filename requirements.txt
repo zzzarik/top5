@@ -3,3 +3,5 @@ google-play-scraper
 pandas
 xlsxwriter
 openpyxl
+beautifulsoup4
+requests
